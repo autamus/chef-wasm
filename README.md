@@ -3,7 +3,7 @@
 Chef wasm uses [https://github.com/autamus/chef](https://github.com/autamus/chef) in order to generate a web
 interface to create a Dockerfile. Chef Autamus at your service!
 
-![docs/img/chef.png](docs/img/chef.png)
+![docs/img/chef-stash.png](docs/img/chef-stash.png)
 
 This is an ideal approach if you want to use spack packages but you don't want to wait for them
 to build (which can take forever!). Autamus containers can dump them easily into a spack install.
