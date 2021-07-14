@@ -94,7 +94,7 @@ $ . /opt/spack/share/spack/setup-env.sh
 # load Python
 root@62b0820b3524:/opt/spack# spack load python@3.9.5
 
-# Did we loadi it?
+# Did we load it?
 root@62b0820b3524:/opt/spack# which python
 /opt/spack/opt/spack/linux-ubuntu18.04-x86_64/gcc-7.5.0/python-3.9.5-kykqwyent2svlspsvehqpu4xdgcp54z5/bin/python
 
@@ -103,7 +103,6 @@ Python 3.9.5
 ```
 
 That's it!
-
 
 ## Development
 
